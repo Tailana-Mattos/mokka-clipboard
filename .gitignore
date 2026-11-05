@@ -1,0 +1,28 @@
+# Compilação Rust
+/target/
+
+# Backups
+*.bak
+*.bak-*
+*.old
+*.orig
+
+# Dados locais e bancos
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.sqlite-journal
+
+# Cache
+.cache/
+*.tmp
+*.log
+
+# Arquivos acidentais
+/aaaaaaaaa
+
+# Editor
+*.swp
+*.swo
+*~

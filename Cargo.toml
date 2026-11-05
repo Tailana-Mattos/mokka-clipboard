@@ -1,0 +1,10 @@
+[package]
+name = "mokka-clipboard"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+image = { version = "0.25", default-features = false, features = ["png"] }
+lamco-data-control = "1.0.1"
+rusqlite = { version = "0.41.1", features = ["bundled"] }
+serde_json = "1"
