@@ -1,0 +1,11 @@
+{
+    "id": "mokkaClipboard",
+    "name": "Mokka Clipboard",
+    "description": "Histórico de área de transferência com miniaturas e favoritos",
+    "version": "0.1.0",
+    "author": "Mokka Clipboard",
+    "type": "widget",
+    "capabilities": ["dankbar-widget"],
+    "component": "./MokkaWidget.qml",
+    "icon": "content_paste"
+}
