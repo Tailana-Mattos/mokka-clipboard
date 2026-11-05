@@ -1,8 +1,9 @@
 
 # Mokka Clipboard
-![Mokka Clipboard running on Linux](docs/images/mokka-clipboard-interface.png)
 
 **A native clipboard manager for Linux, written in Rust.**
+
+![Mokka Clipboard running on Linux](docs/images/mokka-clipboard-interface.png)
 
 Mokka Clipboard is a clipboard history manager designed for Linux desktop environments. It stores text and image entries, supports favorites and search, and provides keyboard-driven navigation through clipboard history.
 
