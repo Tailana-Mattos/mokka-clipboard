@@ -1,5 +1,6 @@
 
 # Mokka Clipboard
+![Mokka Clipboard running on Linux](docs/images/mokka-clipboard-interface.png)
 
 **A native clipboard manager for Linux, written in Rust.**
 
